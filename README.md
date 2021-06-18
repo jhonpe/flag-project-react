@@ -1,7 +1,7 @@
 # Frontend Mento Challenge #6
--[Flag](./public/proyecto.jpg)
+![](https://repository-images.githubusercontent.com/268180119/41965780-a2df-11ea-817e-f55c19de389e)
 
--[Flag ](https://flag-project-react.netlify.app/)
+-[Flag Project](https://flag-project-react.netlify.app/)
 
 
 
